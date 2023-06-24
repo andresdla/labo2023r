@@ -14,14 +14,14 @@ PARAM <- list()
 PARAM$experimento <- 3210
 
 # Establezco la semilla aleatoria, cambiar por SU primer semilla
-PARAM$semilla <- 102191
+PARAM$semilla <- 110059
 
 # parameetros rpart
 PARAM$rpart_param <- list(
   "cp" = -1,
-  "minsplit" = 300,
-  "minbucket" = 20,
-  "maxdepth" = 10
+  "minsplit" = 250,
+  "minbucket" = 50,
+  "maxdepth" = 14
 )
 
 # parametros  arbol
@@ -29,7 +29,7 @@ PARAM$rpart_param <- list(
 PARAM$feature_fraction <- 0.5
 # voy a generar 500 arboles, a mas arboles mas tiempo de proceso y MEJOR MODELO,
 # pero ganancias marginales
-PARAM$num_trees_max <- 500
+PARAM$num_trees_max <- 1
 
 #------------------------------------------------------------------------------
 #------------------------------------------------------------------------------
