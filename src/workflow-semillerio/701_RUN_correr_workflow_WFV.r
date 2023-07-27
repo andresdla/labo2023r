@@ -14,22 +14,25 @@ source("~/labo2023r/src/workflow-semillerio/731_FE_historia.r")
 source("~/labo2023r/src/workflow-semillerio/741_TS_training_strategy.r")
 
 #WFV_01
-source("~/cv-wfv/src/651_HT_lightgbm_WFV_01.r")
-source("~/cv-wfv/src/661_ZZ_final_WFV_01.r")
+source("~/labo2023r/src/workflow-semillerio/741_TS_training_strategy_WFV_01.r")
+source("~/labo2023r/src/651_HT_lightgbm_WFV_01.r")
+source("~/labo2023r/src/661_ZZ_final_WFV_01.r")
 
 #WFV_02
-
-source("~/cv-wfv/src/651_HT_lightgbm_WFV_02.r")
-source("~/cv-wfv/src/661_ZZ_final_WFV_02.r")
+source("~/labo2023r/src/workflow-semillerio/741_TS_training_strategy_WFV_02.r")
+source("~/labo2023r/src/651_HT_lightgbm_WFV_02.r")
+source("~/labo2023r/src/661_ZZ_final_WFV_02.r")
 
 #WFV_03
-source("~/cv-wfv/src/651_HT_lightgbm_WFV_03.r")
-source("~/cv-wfv/src/661_ZZ_final_WFV_03.r")
+source("~/labo2023r/src/workflow-semillerio/741_TS_training_strategy_WFV_03.r")
+source("~/labo2023r/src/651_HT_lightgbm_WFV_03.r")
+source("~/labo2023r/src/661_ZZ_final_WFV_03.r")
 
 #WFV_04
-source("~/cv-wfv/src/651_HT_lightgbm_WFV_04.r")
-source("~/cv-wfv/src/661_ZZ_final_WFV_04.r")
+source("~/labo2023r/src/workflow-semillerio/741_TS_training_strategy_WFV_04.r")
+source("~/labo2023r/src/651_HT_lightgbm_WFV_04.r")
+source("~/labo2023r/src/661_ZZ_final_WFV_04.r")
 
 #WFV_05
-source("~/cv-wfv/src/651_HT_lightgbm_WFV_05.r")
-source("~/cv-wfv/src/661_ZZ_final_WFV_05.r")
+source("~/labo2023r/src/workflow-semillerio/741_TS_training_strategy_WFV_05.r")abo2023r/src/651_HT_lightgbm_WFV_05.r")
+source("~/labo2023r/src/661_ZZ_final_WFV_05.r")
