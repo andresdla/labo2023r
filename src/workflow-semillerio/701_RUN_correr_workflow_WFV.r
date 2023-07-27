@@ -16,7 +16,7 @@ source("~/labo2023r/src/workflow-semillerio/741_TS_training_strategy.r")
 #WFV_01
 source("~/labo2023r/src/workflow-semillerio/741_TS_training_strategy_WFV_01.r")
 source("~/labo2023r/src/workflow-semillerio/751_HT_lightgbm_WFV_01.r")
-source("~/labo2023r/src/771_ZZ_final_semillerio_WFV_01.r")
+source("~/labo2023r/src/workflow-semillerio/771_ZZ_final_semillerio_WFV_01.r")
 
 #WFV_02
 source("~/labo2023r/src/workflow-semillerio/741_TS_training_strategy_WFV_02.r")
